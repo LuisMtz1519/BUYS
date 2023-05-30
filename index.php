@@ -25,7 +25,6 @@
             </label>
             <ul>
                 <li><a href="downserver.html" class="link-nav">Quienes Somos</a></li>
-                <li><a href="downserver.html" class="link-nav">Contactanos</a></li>
                 <li><a href="downserver.html" class="link-nav">Consultar Mi Boleto</a></li>
                 <li><a href="downserver.html" class="link-nav">Contacto</a></li>
                 <li><a href="index.html">Home</a></li>
